@@ -11,7 +11,7 @@ The overview of the project is as follows:
 
 ### Encoder
 
-The Encoder comprises a series of LSTM units. The source sentence is passed through an Embedding layer (with pre-trained weights), before being fed to the series of LSTM units. The Encoder outputs the final hidden state and cell state vectors, which together represent the entire input sentence. 
+The Encoder comprises a series of LSTM units. The Encoder feeds the source sentence through an Embedding layer (with pre-trained weights), before passing the embedding vectors into the LSTM units. The Encoder outputs the final hidden state and cell state vectors, which together represent the entire input sentence. 
 
 ### Decoder
 
