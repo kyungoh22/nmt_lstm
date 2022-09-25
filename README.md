@@ -1,9 +1,9 @@
 This is Part 1 of my three-part Neural Machine Translation project. 
 
 The overview of the project is as follows:
-Part 1: LSTMs 
-Part 2: Attention
-Part 3: Transformer
+- Part 1: LSTMs 
+- Part 2: Attention
+- Part 3: Transformer
 
 
 
