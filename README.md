@@ -46,7 +46,7 @@ Once the model's weights have been optimized during the training, we can start m
 
 
 
-#### A note on this project's implementation
+#### A note on the implementation of Part 1
 I approached Part 1 as a kind of warm-up exercise for my project, knowing that the ultimate goal would be to implement the more complex Transformer architecture in Part 3. As such, all code for Part 1 has been written up in a single Jupyter notebook, entitled LSTM_translator_clean.ipynb. 
 
 There are many instances where I could have written functions or custom sub-classes in a separate python file to make the code more elegant. For now, I left the code for Part 1 in its current, somewhat messy form. In Parts 2 and 3, I attempted to write my code in a much more structured manner.
