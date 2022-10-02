@@ -1,9 +1,6 @@
-This is Part 1 of my three-part Neural Machine Translation project. 
-
-The overview of the project is as follows:
-- Part 1: LSTMs 
-- Part 2: Attention
-- Part 3: Transformer
+- This is Part 1 of my three-part Neural Machine Translation project. 
+- For Part 2, based on Attention, please see [here](https://github.com/kyungoh22/nmt_attention)
+- For Part 3, based on a Transformer, please see [here]((https://github.com/kyungoh22/nmt_transformer))
 
 # Neural Machine Translation with LSTMs
 
